@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Recipes App</string>
+    <string name="settings">Settings</string>
+    <string name="clear_cach">Clear cach</string>
+    <string name="confirmation">Confirm</string>
+    <string name="do_clear_cach">Do you want to clear the cach ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ache_cleared">Cache cleared !</string>
+    <string name="github">Github</string>
+    <string name="github_link">https://github.com/ryadamir/RecipesApp</string>
+    <string name="developer_page">Developer</string>
+    <string name="play_on_cloudstream">Play on CloudStream</string>
+    <string name="recipes">Recipes</string>
+    <string name="minutes">minutes</string>
+    <string name="time">"Time : "</string>
+    <string name="calories">"Calories : "</string>
+    <string name="proteins">"Proteins : "</string>
+    <string name="fats">"Fats : "</string>
+    <string name="carbos">"Carbos : "</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome !</string>
+    <string name="please_fill_fileds">Please fill all the fields</string>
+    <string name="login_failed">Wrong username or password</string>
+    <string name="login_succ">Login Successful</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confime_password">Confirm password</string>
+    <string name="dont_have_account">"You don't have an account ? "</string>
+    <string name="internet_error">Internet not available</string>
+    <string name="user_exists">User already Exists</string>
+    <string name="registration_failed">Registration Failed, please retry</string>
+    <string name="passwords_not_matching">Passwords are not matching</string>
+</resources>
