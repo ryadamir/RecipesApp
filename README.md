@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### This is a practice project that I developped from scratch, it's called RecipesApp 🙄.
+#### This is a practice project that I developped from scratch, it's called RecipesApp.
 
 ##### Please keep in mind that some of these libraries were implemented only to showcase my skills, and show my mastery of what's trending right now, that's why I used Kotlin even that I'm better at Java 😅, it is a very simple project so it could have been made with simple implementations.
 
