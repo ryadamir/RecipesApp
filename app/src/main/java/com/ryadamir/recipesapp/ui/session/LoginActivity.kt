@@ -74,9 +74,6 @@ class LoginActivity : AppCompatActivity() {
     private fun loginAction() {
         binding.signin.setOnClickListener {
 
-            // disabling the click on the sign in button
-            binding.signin.isClickable = false
-
             val user = binding.username.text.toString()
             val pass = binding.password.text.toString()
 
@@ -86,6 +83,8 @@ class LoginActivity : AppCompatActivity() {
                     this@LoginActivity, getString(R.string.please_fill_fileds), Toast.LENGTH_SHORT
                 ).show()
             else {
+                // disabling the click on the sign in button
+                binding.signin.isClickable = false
 
                 if (loginViewModel.login(user, pass, dbHelper!!)) {
                     loginSuccess()
