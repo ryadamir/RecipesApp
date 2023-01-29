@@ -10,7 +10,7 @@
 - Home view
 - Detail of recipe view
 - Settings view
-- Logout frature
+- Logout feature
 
 ## Library References
 
