@@ -20,7 +20,7 @@
             tools:ignore="HardcodedText" />
 
         <ImageView
-            android:id="@+id/iv_back"
+            android:id="@+id/btn_back"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_gravity="start"

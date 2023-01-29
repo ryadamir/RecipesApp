@@ -109,7 +109,7 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private fun backAction() {
-        binding.btnShare.setOnClickListener {
+        binding.btnBack.setOnClickListener {
             finish()
         }
     }
