@@ -2,7 +2,7 @@
 
 #### This is a practice project that I developped from scratch, it's called RecipesApp.
 
-##### Please keep in mind that some of these libraries were implemented only to showcase my skills, and show my mastery of what's trending right now, that's why I used Kotlin even that I'm better at Java 😅, it is a very simple project so it could have been made with simple implementations.
+##### Please keep in mind that some of these libraries were implemented only to showcase my skills, and show my mastery of what's trending right now, I used Kotlin, it is a very simple project.
 
 ## Features
 - Login view
